@@ -29,7 +29,7 @@ How to Master Regex
 This tutorial not only provides a ready-to-use regex pattern but also explains each component, empowering you to master regex for email validation. Apply this knowledge to enhance your JavaScript skills and build more robust applications.
 
 Contributing
-If you have suggestions, improvements, or find any issues, feel free to contribute by opening an issue or submitting a pull request.
+If you have suggestions, improvements, or find any issues, feel free to contribute by opening an issue or submitting a pull request, or contact me directly at https://github.com/Srgowen.
 
 License
 This Regex Tutorial is licensed under the MIT License. Feel free to use, modify, and share it according to the terms of the license.
